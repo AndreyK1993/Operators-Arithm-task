@@ -20,7 +20,7 @@ public class Main {
         System.out.println("Product: " + name + ", sales EUR " + salesAmount);
 
         avgSum = salesAmount / days;
-        
+
         System.out.printf("Product: %s  sales by day EUR %.2f%n", name, avgSum);
 
         name = "Apples";
